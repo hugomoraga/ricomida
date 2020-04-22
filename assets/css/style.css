@@ -1,0 +1,34 @@
+/*
+Fuente:
+Cabin Regular (400)
+Cabin Bold (700).
+Lobster Regular (400)
+font-family: 'Lobster', cursive;
+font-family: 'Cabin', sans-serif;
+colores:
+#373a3C
+#dddddd
+#000 o var(--black)
+#fff o var(--white);
+#dc3545 o var(--danger)*/
+
+html, body {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    
+}
+
+.titulo {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700; 
+}
+
+.logo-font {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+#newsletter h1 {
+    font-weight: 700;
+}
